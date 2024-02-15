@@ -35,8 +35,8 @@ object MainObject {
 * Array is mutable
 * Collections can be both mutable and immutable-list,map,set,tuple,Seq
   
-# Scala is treated as object oriented as variables are also considered to be as objects so even primitive type is considered to be as object.
-# Scala support pure Functions -> which means the output only depends on input and not in any other without observable side effects.
+* Scala is treated as object oriented as variables are also considered to be as objects so even primitive type is considered to be as object.
+* Scala support pure Functions -> which means the output only depends on input and not in any other without observable side effects.
 
 # Case classes and traits
 
