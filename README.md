@@ -34,9 +34,23 @@ object MainObject {
 # Arrays and collections 
 * Array is mutable
 * Collections can be both mutable and immutable-list,map,set,tuple,Seq
-  
+  * Scala support pure Functions -> which means the output only depends on input and not in any other without observable side effects.
 * Scala is treated as object oriented as variables are also considered to be as objects so even primitive type is considered to be as object.
-* Scala support pure Functions -> which means the output only depends on input and not in any other without observable side effects.
 
-# Case classes and traits
+# Case class and Traits
+* case class is created using case keyword.
+* constructor paramter is automatically created.
+* Traits are similar to multiple inheritance.
 
+# Match clause
+* It is used to provide pattern matching.
+* Basically used as a case like structure
+* In case the case with _ is treated as the default. 
+
+# Scala Generics
+
+* Scala generics provides a way to write reusable code and and help in abstracting over types.
+# JSON parsing and JSON serialization
+
+* JSON parsing means JSON scala objects
+* JSON serialization encodes scala objects to JSON
